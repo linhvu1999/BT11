@@ -1,0 +1,58 @@
+.haeding{
+	text-align: center;
+    background: #000;
+    color: #fff;
+    padding: 30px;
+}
+body{
+	margin: 0px;
+}
+ul{
+	background: #ccc;
+}
+ul li{
+	display: inline-block;
+	padding: 10px 15px;
+}
+ul li a{
+	text-decoration: none;
+	padding: 10px 15px;
+}
+a:hover{
+	color: red;
+}
+.active{
+	background: #fff;
+}
+.container{
+	width: 60%;
+	margin: auto;
+}
+img{
+	width: 70%;
+}
+.float{
+	float: left;
+}
+.col-md-2{
+	width: 20%;
+}
+.col-md-10{
+	width: 80%;
+}
+.row{
+	display: flex;
+}
+.content-right{
+	padding-left: 20px;
+}
+h3{
+	margin: 0px;
+}
+.title a{
+	text-decoration: none;
+}
+
+.red{
+	color: red;
+}
